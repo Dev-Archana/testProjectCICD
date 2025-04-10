@@ -1,1 +1,1 @@
-## this is a react project
+## this is a python project
